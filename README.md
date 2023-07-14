@@ -7,7 +7,7 @@
 
 
 <p>👩🏽‍🎓 29 anos</p>
-<p>🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec</p>
+<p>🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec - Concluída - Junho de 2023</p>
 <p>💼 Trabalho/Estágio: Information Security Analyst - IAM | Analista de Sistemas Júnior</p>
 
 </div>
