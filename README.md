@@ -8,25 +8,16 @@
 
 <p>👩🏽‍🎓 29 anos</p>
 <p>🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec - Concluída - Junho de 2023</p>
-<p>💼 Trabalho/Estágio: Information Security Analyst - IAM | Analista de Sistemas Júnior</p>
+<p>👩🏽‍💻 Codifica Ai</p>
 
 </div>
 
 ##
 
-<div>
-  <a href="https://github.com/AnnaCMendes/AnnaCMendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaCMendes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-
-  
-</div>
-  
-   
-##
- <div>
- <a href="https://github.com/AnnaCMendes/AnnaCMendes">
- <img height="400em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaCMendes&show_icons=true&theme=cobalt&langs_count=20"/>
- 
+<div align="center">
+  <a href="https://github.com/AnnaCMendes">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnnaCMendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaCMendes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ##
