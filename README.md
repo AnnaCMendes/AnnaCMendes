@@ -8,7 +8,7 @@
 
 <p>👩🏽‍🎓 29 anos</p>
 <p>🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec - Concluída - Junho de 2023</p>
-<p>👩🏽‍💻 Codifica Ai</p>
+<p>👩🏽‍💻 TIVIT</p>
 
 </div>
 
