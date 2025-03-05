@@ -6,9 +6,11 @@
 <div>
 
 
-<p>👩🏽‍🎓 29 anos</p>
-<p>🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec - Concluída - Junho de 2023</p>
-<p>👩🏽‍💻 TIVIT</p>
+<p>👩🏽‍🎓 31 anos</p>
+<p>🎓 Faculdade: Banco de Dados na Fatec de São José dos Campos - Prof° Jesse Vidal - Em Curso - Dezembro de 2028</p>
+<p>🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos - Prof° Jesse Vidal - Concluída - Junho de 2023</p>
+
+<p>👩🏽‍💻 Analista de Segurança da Informação Pleno na empresa IAM Brasil </p>
 
 </div>
 
